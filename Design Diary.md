@@ -68,3 +68,4 @@ so I had to just pick a random index in my drawCard function and removeAt said i
 If I had to do this over again I would start sooner, and make sure that I am more on top of my github. Also I would talk to classmates more so that we can bounce ideas off each other.
 
 
+https://github.com/Rbeck200/blackjack/blob/master/Milestone%20%232%20Running.gif
